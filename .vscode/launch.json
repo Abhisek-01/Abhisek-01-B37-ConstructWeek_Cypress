@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "msedge",
+      "name": "github",
+      "request": "launch",
+      "url": "github"
+    }
+  ]
+}
